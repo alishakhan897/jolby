@@ -1,0 +1,47 @@
+.job-section-container {
+  background-color: #000000;
+  min-height: 100vh;
+  background-size: cover;
+}
+.small-container-job {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.rightsidediv {
+  width: 30%;
+  padding: 35px;
+}
+.leftsidediv {
+  width: 65%;
+  padding: 35px;
+}
+.profile-section {
+  width: 100%;
+}
+
+hr {
+  margin-top: 18px;
+}
+.employment {
+  color: white;
+  font-size: 19px;
+  margin-top: 15px;
+}
+.search-input-div {
+  background-color: black;
+  width: 40%;
+  padding: 8px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+}
+.search-input {
+  background-color: transparent;
+  border: 0px transparent;
+  color: white;
+  outline: none;
+}

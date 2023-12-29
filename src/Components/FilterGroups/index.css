@@ -1,0 +1,8 @@
+li {
+  list-style-type: none;
+  display: flex;
+  margin-top: 23px;
+}
+.label {
+  margin-right: 12px;
+}

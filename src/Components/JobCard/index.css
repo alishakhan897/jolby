@@ -1,0 +1,66 @@
+.job-card-container {
+  background-color: #202020;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  margin-top: 24px;
+  border-radius: 6px;
+}
+.img-card {
+  height: 40px;
+}
+.job-items {
+  display: flex;
+
+  align-items: center;
+}
+.title {
+  color: white;
+}
+.star {
+  color: #fbbf24;
+  margin-right: 8px;
+}
+.title-star-card {
+  padding-left: 12px;
+}
+.rate-star {
+  display: flex;
+
+  align-items: center;
+}
+.location {
+  margin-top: 35px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.location-color {
+  color: white;
+}
+
+.location-div {
+  display: flex;
+  justify-content: space-between;
+}
+.location-div2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+}
+.intern {
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
+.title2 {
+  color: white;
+  padding-right: 10px;
+}
+.title3 {
+  color: white;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
